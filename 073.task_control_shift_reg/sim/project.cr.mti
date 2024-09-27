@@ -1,0 +1,8 @@
+D:/FPGA/Verilog-Labs/073.task_control_shift_reg/task_control_shift_reg.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/073.task_control_shift_reg/task_control_shift_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module task_control_shift_reg
+
+Top level modules:
+	task_control_shift_reg
+
+} {} {}}

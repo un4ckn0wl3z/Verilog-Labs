@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/sim
+vbuilt_in_gates
+Z0 !s110 1725713718
+!i10b 1
+!s100 3KYIk5Y26h>B5kNdYjmXH0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IV]IZWdP5E82EaFlL`>JS42
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/030.built_in_gates/sim
+w1725713471
+8D:/FPGA/Verilog-Labs/030.built_in_gates/built_in_gates.v
+FD:/FPGA/Verilog-Labs/030.built_in_gates/built_in_gates.v
+!i122 2
+L0 3 23
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1725713718.000000
+!s107 D:/FPGA/Verilog-Labs/030.built_in_gates/built_in_gates.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/030.built_in_gates/built_in_gates.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_gates
+R0
+!i10b 1
+!s100 ZOHRHzgRjB78hoII7NczL2
+R1
+IK?FG[>77S_aQ2TbN;AORX0
+R2
+R3
+w1725713712
+8D:/FPGA/Verilog-Labs/030.built_in_gates/tb_gates.v
+FD:/FPGA/Verilog-Labs/030.built_in_gates/tb_gates.v
+!i122 3
+L0 4 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/030.built_in_gates/tb_gates.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/030.built_in_gates/tb_gates.v|
+!i113 1
+R6
+R7

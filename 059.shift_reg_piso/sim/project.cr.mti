@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/059.shift_reg_piso/shift_reg_piso.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/059.shift_reg_piso/shift_reg_piso.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_reg_piso
+-- Compiling module tb_shift_reg_piso
+
+Top level modules:
+	tb_shift_reg_piso
+
+} {} {}}

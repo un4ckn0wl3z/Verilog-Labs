@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/081.semaphore_fsm/sim
+vseq_det_non_overlap
+Z0 !s110 1726930525
+!i10b 1
+!s100 Fb=gech4SJnZP?CiEm8c`2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ImCI_NhO>l<4SOa0Sa`;341
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/082.seq_det_non_overlap/sim
+Z4 w1726930522
+Z5 8D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v
+Z6 FD:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v
+!i122 3
+L0 2 50
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726930525.000000
+!s107 D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_seq_det_non_overlap
+R0
+!i10b 1
+!s100 ]<4hJ:cQmH1l2WFMIb7I@2
+R1
+Imz^8HHlRaITN88X97THFb0
+R2
+R3
+R4
+R5
+R6
+!i122 3
+L0 56 50
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v|
+R9
+!i113 1
+R10
+R11

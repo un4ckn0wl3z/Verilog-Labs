@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/047.mux_4x_nbit/sim
+vdemux_nbit_x4
+Z0 !s110 1726062446
+!i10b 1
+!s100 Q8^Pk:VRmDZVb6;9V7VoQ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IC?6][F1U=ci>@9:0I?N5@3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/048.demux_nbit_x4/sim
+Z4 w1726062415
+Z5 8D:/FPGA/Verilog-Labs/048.demux_nbit_x4/demux_nbit_x4.v
+Z6 FD:/FPGA/Verilog-Labs/048.demux_nbit_x4/demux_nbit_x4.v
+!i122 0
+L0 2 24
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726062446.000000
+!s107 D:/FPGA/Verilog-Labs/048.demux_nbit_x4/demux_nbit_x4.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/048.demux_nbit_x4/demux_nbit_x4.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_demux_nbit_x4
+R0
+!i10b 1
+!s100 c8hDd`7R=EfVloJ2_PTTI1
+R1
+I2S27H;T2AlUKMazh5iBdJ1
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 30 36
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/048.demux_nbit_x4/demux_nbit_x4.v|
+R9
+!i113 1
+R10
+R11

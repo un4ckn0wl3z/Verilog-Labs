@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/028.ripple_adder_4bit_dataflow/sim
+vadder_4bit_behavioral
+Z0 !s110 1725548044
+!i10b 1
+!s100 QG@O]dH5CjM8Ifn<bemk42
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=czU81dXN6C[3]EkYN6hX0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/sim
+Z4 w1725547674
+Z5 8D:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/adder_4bit_behavioral.v
+Z6 FD:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/adder_4bit_behavioral.v
+!i122 0
+L0 2 12
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1725548044.000000
+!s107 D:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/adder_4bit_behavioral.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/adder_4bit_behavioral.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_adder_4bit_behav
+R0
+!i10b 1
+!s100 3SHfC5g7nHWAfdIg_D_fe3
+R1
+IUbaL>7dmIA@C]ECz?Kf]I0
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 16 37
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/029.adder_4bit_behavioral/adder_4bit_behavioral.v|
+R9
+!i113 1
+R10
+R11

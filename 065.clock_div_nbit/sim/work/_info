@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/064.counter_modulo_n/sim
+vclock_div_nbit
+Z0 !s110 1726498697
+!i10b 1
+!s100 XcRD0hK8SIc8dfz=DK_zC0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IczfA2AgN1kbMQVeYfD2O50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/065.clock_div_nbit/sim
+Z4 w1726498693
+Z5 8D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v
+Z6 FD:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v
+!i122 2
+L0 2 29
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726498697.000000
+!s107 D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vcounter_nbit
+R0
+!i10b 1
+!s100 ^ennY[;8giaOmgOgd;>Fa0
+R1
+I=:`4Ln=CYlLRAP?lWA9a:0
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 33 17
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v|
+R9
+!i113 1
+R10
+R11
+vtb_clock_div_nbit
+R0
+!i10b 1
+!s100 300L]YGO^G=fZ_kn^:[3G3
+R1
+I?2^;MPCm;fKRAnO:MFAnC3
+R2
+R3
+R4
+R5
+R6
+!i122 2
+L0 53 31
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/045.prio_enc1_4to2/sim
+vprio_enc2_4to2
+Z0 !s110 1725935852
+!i10b 1
+!s100 dTRD3VDiQaOSEGH?KS1]U2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXWcC@IjU<h_bm]Q;UQMma3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/046.prio_enc2_4to2/sim
+Z4 w1725935555
+Z5 8D:/FPGA/Verilog-Labs/046.prio_enc2_4to2/prio_enc2_4to2.v
+Z6 FD:/FPGA/Verilog-Labs/046.prio_enc2_4to2/prio_enc2_4to2.v
+!i122 0
+L0 1 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1725935852.000000
+!s107 D:/FPGA/Verilog-Labs/046.prio_enc2_4to2/prio_enc2_4to2.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/046.prio_enc2_4to2/prio_enc2_4to2.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_prio_enc2_4to2
+R0
+!i10b 1
+!s100 K1d`K9`10=KLj54aD;6ec3
+R1
+I6zHflSIPzjcIH:QHIkP5B3
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 21 29
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/046.prio_enc2_4to2/prio_enc2_4to2.v|
+R9
+!i113 1
+R10
+R11

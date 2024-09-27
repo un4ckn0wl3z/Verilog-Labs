@@ -1,0 +1,31 @@
+# Compile of clock_div_3.v was successful.
+vsim -gui work.tb_clock_div3
+# vsim -gui work.tb_clock_div3 
+# Start time: 22:13:46 on Sep 16,2024
+# Loading work.tb_clock_div3
+# Loading work.clock_div3
+add wave -position end  sim:/tb_clock_div3/clk
+add wave -position end  sim:/tb_clock_div3/reset_n
+add wave -position end  sim:/tb_clock_div3/clock_out
+run -all
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/066.clock_div_3/clock_div_3.v(100)
+#    Time: 21500 ns  Iteration: 1  Instance: /tb_clock_div3
+# Break in Module tb_clock_div3 at D:/FPGA/Verilog-Labs/066.clock_div_3/clock_div_3.v line 100
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/clock_in
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/reset_n
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/clock_out
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/qa
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/qb
+add wave -position end  sim:/tb_clock_div3/CLK_DIV0/qc
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/066.clock_div_3/clock_div_3.v(100)
+#    Time: 21500 ns  Iteration: 1  Instance: /tb_clock_div3
+# Break in Module tb_clock_div3 at D:/FPGA/Verilog-Labs/066.clock_div_3/clock_div_3.v line 100
+quit -sim
+# End time: 22:25:01 on Sep 16,2024, Elapsed time: 0:11:15
+# Errors: 0, Warnings: 1

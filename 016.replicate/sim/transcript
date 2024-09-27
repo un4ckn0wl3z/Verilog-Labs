@@ -1,0 +1,183 @@
+# Compile of operators_precedence.v failed with 1 errors.
+# Compile of operators_precedence.v failed with 1 errors.
+# Compile of operators_precedence.v was successful.
+vsim -gui work.operators_precedence
+# vsim -gui work.operators_precedence 
+# Start time: 19:59:58 on Sep 04,2024
+# Loading work.operators_precedence
+add wave -position end  sim:/operators_precedence/a
+add wave -position end  sim:/operators_precedence/b
+run -all
+# a = 0001
+# a = 0001
+# a = 0001
+# b = 40
+# b = 1
+# b = 2
+quit -sim
+# End time: 20:00:15 on Sep 04,2024, Elapsed time: 0:00:17
+# Errors: 0, Warnings: 7
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of adder8bit.v was successful.
+# Compile of my_first_testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.my_first_testbench
+# vsim -gui work.my_first_testbench 
+# Start time: 20:32:42 on Sep 04,2024
+# Loading work.my_first_testbench
+# Loading work.adder8bit
+add wave -position end sim:/my_first_testbench/ADDER1/*
+run -all
+# a=  0, b=  0, sum=  0
+# a=  1, b=  0, sum=  1
+# a=  1, b= 10, sum= 11
+# a=  3, b= 99, sum=102
+# a=101, b= 66, sum=167
+# a=255, b=255, sum=510
+quit -sim
+# End time: 20:36:08 on Sep 04,2024, Elapsed time: 0:03:26
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of waveforms.v was successful.
+vsim -gui work.waveforms
+# vsim -gui work.waveforms 
+# Start time: 20:49:34 on Sep 04,2024
+# Loading work.waveforms
+add wave -position end  sim:/waveforms/sig1
+add wave -position end  sim:/waveforms/sig2
+run -all
+quit -sim
+# End time: 20:54:58 on Sep 04,2024, Elapsed time: 0:05:24
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of half_adder_structural.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:12:31 on Sep 04,2024
+# Loading work.testbench
+# Loading work.half_adder_structural
+add wave -position end sim:/testbench/HALF_ADD/*
+run -all
+# a=x, b=x, sum=x, carry=x
+# a=0, b=0, sum=0, carry=0
+# a=0, b=1, sum=1, carry=0
+# a=1, b=0, sum=1, carry=0
+# a=1, b=1, sum=0, carry=1
+# a=0, b=0, sum=0, carry=0
+# a=1, b=1, sum=0, carry=1
+quit -sim
+# End time: 21:15:53 on Sep 04,2024, Elapsed time: 0:03:22
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of half_adder_dataflow.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:25:29 on Sep 04,2024
+# Loading work.testbench
+# Loading work.half_adder_dataflow
+add wave -position end sim:/testbench/HALF_ADD/*
+run -all
+# a=x, b=x, sum=x, carry=x
+# a=0, b=0, sum=0, carry=0
+# a=0, b=1, sum=1, carry=0
+# a=1, b=0, sum=1, carry=0
+# a=1, b=1, sum=0, carry=1
+# a=0, b=0, sum=0, carry=0
+# a=1, b=1, sum=0, carry=1
+quit -sim
+# End time: 21:26:02 on Sep 04,2024, Elapsed time: 0:00:33
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of procedures.v was successful.
+vsim -gui work.procedures
+# vsim -gui work.procedures 
+# Start time: 21:42:39 on Sep 04,2024
+# Loading work.procedures
+add wave -position end  sim:/procedures/var1
+add wave -position end  sim:/procedures/var2
+add wave -position end  sim:/procedures/sum
+add wave -position end  sim:/procedures/product
+run -all
+# MON_VAR1: var1 = 10
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = x
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 330
+# MON_VAR1: var1 = 132
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 330
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 660
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# MON_VAR1: var1 = 10
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = x
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 330
+# MON_VAR1: var1 = 132
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 330
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 660
+restart
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# MON_VAR1: var1 = 10
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = x
+# MON_ALL: var1 = 10, var2 = 99, sum = 109, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 990
+# MON_ALL: var1 = 10, var2 = 33, sum = 43, product = 330
+# MON_VAR1: var1 = 132
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 330
+# MON_ALL: var1 = 132, var2 = 33, sum = 165, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 4356
+# MON_ALL: var1 = 132, var2 = 4, sum = 136, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 528
+# MON_ALL: var1 = 132, var2 = 5, sum = 137, product = 660
+quit -sim
+# End time: 21:55:09 on Sep 04,2024, Elapsed time: 0:12:30
+# Errors: 0, Warnings: 1
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of half_adder_behavioral.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 22:01:19 on Sep 04,2024
+# Loading work.testbench
+# Loading work.half_adder_behavioral
+add wave -position end sim:/testbench/HALF_ADD/*
+run -all
+# a=x, b=x, sum=x, carry=x
+# a=0, b=0, sum=0, carry=0
+# a=0, b=1, sum=1, carry=0
+# a=1, b=0, sum=1, carry=0
+# a=1, b=1, sum=0, carry=1
+# a=0, b=0, sum=0, carry=0
+# a=1, b=1, sum=0, carry=1
+quit -sim
+# End time: 22:02:11 on Sep 04,2024, Elapsed time: 0:00:52
+# Errors: 0, Warnings: 5

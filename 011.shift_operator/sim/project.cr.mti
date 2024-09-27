@@ -1,0 +1,8 @@
+D:/FPGA/Verilog-Labs/011.shift_operator/shift_operators.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/011.shift_operator/shift_operators.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_operators
+
+Top level modules:
+	shift_operators
+
+} {} {}}

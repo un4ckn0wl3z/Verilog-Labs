@@ -1,0 +1,15 @@
+D:/FPGA/Verilog-Labs/031.mux_1bit/tb_mux.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/031.mux_1bit/tb_mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} D:/FPGA/Verilog-Labs/031.mux_1bit/mux_1bit.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/031.mux_1bit/mux_1bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_1bit
+
+Top level modules:
+	mux_1bit
+
+} {} {}}

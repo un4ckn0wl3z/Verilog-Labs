@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/074.shift_reg_pipo_buggy/sim/shift_reg_pipo_buggy.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/074.shift_reg_pipo_buggy/sim/shift_reg_pipo_buggy.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_reg_pipo_buggy
+-- Compiling module tb_shift_reg_pipo_buggy
+
+Top level modules:
+	tb_shift_reg_pipo_buggy
+
+} {} {}}

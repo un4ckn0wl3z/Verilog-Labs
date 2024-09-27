@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/001.HelloWorld/sim
+vsum_product
+!s110 1725285635
+!i10b 1
+!s100 b^iNOiVW2L_Q`ZMia[R_e2
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I[UJbaYi[P:Hh?_fRFJE5E1
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/FPGA/Verilog-Labs/002.SumProduct/sim
+w1725285619
+8D:/FPGA/Verilog-Labs/002.SumProduct/sum_product.v
+FD:/FPGA/Verilog-Labs/002.SumProduct/sum_product.v
+!i122 3
+L0 1 20
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1725285635.000000
+!s107 D:/FPGA/Verilog-Labs/002.SumProduct/sum_product.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/002.SumProduct/sum_product.v|
+!i113 1
+o-work work
+tCvgOpt 0

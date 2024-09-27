@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/017.operator_precedence/sim
+vadder8bit
+Z0 !s110 1725456737
+!i10b 1
+!s100 ^0WQ8WNTQJTIWWe2@AIN90
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IdWhJ3`@5^W893XKdm1RlY1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/018.tb/sim
+w1725455649
+8D:/FPGA/Verilog-Labs/018.tb/adder8bit.v
+FD:/FPGA/Verilog-Labs/018.tb/adder8bit.v
+!i122 0
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1725456737.000000
+!s107 D:/FPGA/Verilog-Labs/018.tb/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/018.tb/adder8bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmy_first_testbench
+R0
+!i10b 1
+!s100 dc@z4PU:C8Um`G7NGoSOJ3
+R1
+I`fcDUSHfkThQcX@lZ4LzD3
+R2
+R3
+w1725456650
+8D:/FPGA/Verilog-Labs/018.tb/my_first_testbench.v
+FD:/FPGA/Verilog-Labs/018.tb/my_first_testbench.v
+!i122 1
+L0 1 36
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/018.tb/my_first_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/018.tb/my_first_testbench.v|
+!i113 1
+R6
+R7

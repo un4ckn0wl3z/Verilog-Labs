@@ -1,0 +1,54 @@
+# Compile of literal_values.v was successful.
+vsim -gui work.literal_values
+# vsim -gui work.literal_values 
+# Start time: 21:30:40 on Sep 02,2024
+# Loading work.literal_values
+run -all
+# my_var = 137
+# my_var = 89
+# my_var = 10001001
+# my_var = 211
+# my_var = zzzz0001
+# my_var = 00000001
+# my_var = 11110000
+add wave -position end  sim:/literal_values/my_var
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# my_var = 137
+# my_var = 89
+# my_var = 10001001
+# my_var = 211
+# my_var = zzzz0001
+# my_var = 00000001
+# my_var = 11110000
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 21:33:28 on Sep 02,2024, Elapsed time: 0:02:48
+# Errors: 0, Warnings: 1
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of easy_vectors_example.v was successful.
+vsim -gui work.easy_vectors_example
+# vsim -gui work.easy_vectors_example 
+# Start time: 21:51:03 on Sep 02,2024
+# Loading work.easy_vectors_example
+add wave -position end  sim:/easy_vectors_example/a
+add wave -position end  sim:/easy_vectors_example/b
+add wave -position end  sim:/easy_vectors_example/d
+add wave -position end  sim:/easy_vectors_example/c
+run -all
+# PROC2 a=00000000, b=0000000, c=00, d=00000000
+# PROC2 a=00000001, b=0000000, c=00, d=00000000
+# PROC2 a=11110101, b=0000000, c=01, d=00000000
+# PROC2 a=11111000, b=0000000, c=10, d=00000000
+# PROC2 a=00001000, b=0000000, c=10, d=00000000
+# PROC2 a=00000000, b=0000000, c=00, d=00000000
+# PROC2 a=00000000, b=1111111, c=00, d=00000000
+# PROC2 a=00000000, b=1111111, c=00, d=11110000
+# PROC2 a=00001110, b=1111111, c=11, d=11110000
+# PROC2 a=00001110, b=1111111, c=11, d=11101111
+# PROC2 a=00001110, b=1111111, c=11, d=11110000
+quit -sim
+# End time: 22:30:42 on Sep 02,2024, Elapsed time: 0:39:39
+# Errors: 0, Warnings: 5

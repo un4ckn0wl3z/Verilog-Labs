@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/040.nbit_comparator/sim
+vdecoder_nbit
+Z0 !s110 1725808310
+!i10b 1
+!s100 fPbdH`9zN6MzSYGmmQ49K0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic6]cSI?KdF@hmg0OlLhb02
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/041.nbit_decoder/sim
+Z4 w1725808232
+Z5 8D:/FPGA/Verilog-Labs/041.nbit_decoder/sim/nbit_decoder.v
+Z6 FD:/FPGA/Verilog-Labs/041.nbit_decoder/sim/nbit_decoder.v
+!i122 0
+L0 3 17
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1725808310.000000
+!s107 D:/FPGA/Verilog-Labs/041.nbit_decoder/sim/nbit_decoder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/041.nbit_decoder/sim/nbit_decoder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_decoder_nbit
+R0
+!i10b 1
+!s100 3Z]>a`BT8Sed:faCJ_UR12
+R1
+I3ERz=T<[ZTNCC>V^zZ>FD2
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 25 29
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/041.nbit_decoder/sim/nbit_decoder.v|
+R9
+!i113 1
+R10
+R11

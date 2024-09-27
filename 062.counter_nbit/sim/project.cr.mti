@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/062.counter_nbit/counter_nbit.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/062.counter_nbit/counter_nbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_nbit
+-- Compiling module tb_counter_nbit
+
+Top level modules:
+	tb_counter_nbit
+
+} {} {}}

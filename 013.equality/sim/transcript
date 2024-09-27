@@ -1,0 +1,47 @@
+# Compile of conditional_operator.v failed with 3 errors.
+# Compile of conditional_operator.v was successful.
+vsim -gui work.conditional_operator
+# vsim -gui work.conditional_operator 
+# Start time: 00:07:37 on Sep 04,2024
+# Loading work.conditional_operator
+add wave -position end  sim:/conditional_operator/result
+add wave -position end  sim:/conditional_operator/a
+add wave -position end  sim:/conditional_operator/b
+add wave -position end  sim:/conditional_operator/c
+run -all
+# result = 1
+# result = 1
+# result = -99
+# c = z
+quit -sim
+# End time: 00:10:06 on Sep 04,2024, Elapsed time: 0:02:29
+# Errors: 0, Warnings: 6
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of concat.v was successful.
+vsim -gui work.concatenation_operator
+# vsim -gui work.concatenation_operator 
+# Start time: 00:20:19 on Sep 04,2024
+# Loading work.concatenation_operator
+add wave -position end  sim:/concatenation_operator/a
+add wave -position end  sim:/concatenation_operator/upper_nibble
+add wave -position end  sim:/concatenation_operator/lower_nibble
+run -all
+# a = 11100001
+# a = 00011000
+# a = 10001010
+# a = 00101001
+# upper_nibble = 0010, lower_nibble = 1001
+# upper_nibble = 1001, lower_nibble = 0010
+# a = 10010010
+quit -sim
+# End time: 00:22:07 on Sep 04,2024, Elapsed time: 0:01:48
+# Errors: 0, Warnings: 5
+add wave -position end  vsim:/conditional_operator/result
+add wave -position end  vsim:/conditional_operator/a
+add wave -position end  vsim:/conditional_operator/b
+add wave -position end  vsim:/conditional_operator/c
+run -all
+# No Design Loaded!
+quit -sim
+quit -sim

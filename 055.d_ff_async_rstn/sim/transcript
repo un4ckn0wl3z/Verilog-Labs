@@ -1,0 +1,19 @@
+vsim -gui work.tb_d_dff_rstn
+# vsim -gui work.tb_d_dff_rstn 
+# Start time: 21:12:36 on Sep 20,2024
+# Loading work.tb_d_dff_rstn
+# Loading work.d_ff_async_rstn
+add wave -position end  sim:/tb_d_dff_rstn/d
+add wave -position end  sim:/tb_d_dff_rstn/clk
+add wave -position end  sim:/tb_d_dff_rstn/reset_n
+add wave -position end  sim:/tb_d_dff_rstn/q
+add wave -position end  sim:/tb_d_dff_rstn/q_not
+add wave -position end  sim:/tb_d_dff_rstn/delay
+add wave -position end  sim:/tb_d_dff_rstn/i
+run -all
+# ** Note: $finish    : D:/FPGA/Verilog-Labs/055.d_ff_async_rstn/d_ff_async_rstn.v(68)
+#    Time: 40 us  Iteration: 0  Instance: /tb_d_dff_rstn
+# 1
+# Break in Module tb_d_dff_rstn at D:/FPGA/Verilog-Labs/055.d_ff_async_rstn/d_ff_async_rstn.v line 68
+# End time: 21:14:42 on Sep 20,2024, Elapsed time: 0:02:06
+# Errors: 0, Warnings: 1

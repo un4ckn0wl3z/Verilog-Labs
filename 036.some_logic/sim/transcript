@@ -1,0 +1,139 @@
+# Compile of adders3.v was successful.
+vsim -gui work.tb_adders_tree
+# vsim -gui work.tb_adders_tree 
+# Start time: 21:18:55 on Sep 08,2024
+# Loading work.tb_adders_tree
+# Loading work.adders_tree
+add wave -position end  sim:/tb_adders_tree/a
+add wave -position end  sim:/tb_adders_tree/b
+add wave -position end  sim:/tb_adders_tree/c
+add wave -position end  sim:/tb_adders_tree/d
+add wave -position end  sim:/tb_adders_tree/sum1
+add wave -position end  sim:/tb_adders_tree/sum2
+add wave -position end  sim:/tb_adders_tree/sum3
+run -all
+#  a =  x, b =  x, c =   x, d =   x, sum1 =  x, sum2 =   x, sum3 =    x
+#  a =  0, b =  3, c =   1, d = 255, sum1 =  3, sum2 = 256, sum3 =  259
+#  a = 10, b = 13, c =   9, d =  10, sum1 = 23, sum2 =  19, sum3 =   42
+#  a = 15, b = 15, c = 109, d =  37, sum1 = 30, sum2 = 146, sum3 =  176
+#  a =  0, b =  9, c =  45, d =  45, sum1 =  9, sum2 =  90, sum3 =   99
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 21:20:50 on Sep 08,2024, Elapsed time: 0:01:55
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of tb.v was successful.
+# Compile of tree_adder_procedural.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adders3_proc
+# vsim -gui work.tb_adders3_proc 
+# Start time: 21:31:08 on Sep 08,2024
+# Loading work.tb_adders3_proc
+# Loading work.tree_adder_procedural
+add wave -position end  sim:/tb_adders3_proc/a
+add wave -position end  sim:/tb_adders3_proc/b
+add wave -position end  sim:/tb_adders3_proc/c
+add wave -position end  sim:/tb_adders3_proc/d
+add wave -position end  sim:/tb_adders3_proc/sum1
+add wave -position end  sim:/tb_adders3_proc/sum2
+add wave -position end  sim:/tb_adders3_proc/sum3
+run -all
+#  a =  x, b =  x, c =   x, d =   x, sum1 =  x, sum2 =   x, sum3 =    x
+#  a =  0, b =  3, c =   1, d = 255, sum1 =  3, sum2 = 256, sum3 =  259
+#  a = 10, b = 13, c =   9, d =  10, sum1 = 23, sum2 =  19, sum3 =   42
+#  a = 15, b = 15, c = 109, d =  37, sum1 = 30, sum2 = 146, sum3 =  176
+#  a =  0, b =  9, c =  45, d =  45, sum1 =  9, sum2 =  90, sum3 =   99
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 21:31:56 on Sep 08,2024, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of nbit_adder.v was successful.
+vsim -gui work.tb_adder_nbit
+# vsim -gui work.tb_adder_nbit 
+# Start time: 21:38:44 on Sep 08,2024
+# Loading work.tb_adder_nbit
+# Loading work.adder_nbit
+add wave -position end  sim:/tb_adder_nbit/a
+add wave -position end  sim:/tb_adder_nbit/b
+add wave -position end  sim:/tb_adder_nbit/sum
+run -all
+#                    0 a =    x, b =    x, sum =    x
+#                    1 a =    0, b =    0, sum =    0
+#                    3 a =    1, b =   99, sum =  100
+#                    4 a =   33, b =   66, sum =   99
+#                    5 a =  100, b =   47, sum =  147
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v(45)
+#    Time: 6 us  Iteration: 0  Instance: /tb_adder_nbit
+# Break in Module tb_adder_nbit at D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v line 45
+quit -sim
+# End time: 21:39:30 on Sep 08,2024, Elapsed time: 0:00:46
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of nbit_compare.v was successful.
+vsim -gui work.tb_comparator_nbit
+# vsim -gui work.tb_comparator_nbit 
+# Start time: 21:46:15 on Sep 08,2024
+# Loading work.tb_comparator_nbit
+# Loading work.comparator_nbit
+add wave -position end  sim:/tb_comparator_nbit/a
+add wave -position end  sim:/tb_comparator_nbit/b
+add wave -position end  sim:/tb_comparator_nbit/smaller
+add wave -position end  sim:/tb_comparator_nbit/equal
+add wave -position end  sim:/tb_comparator_nbit/greater
+run -all
+#                    0 a =    x, b =    x, smaller = x, equal = x, greater = x
+#                    1 a =    0, b =    0, smaller = 0, equal = 1, greater = 0
+#                    3 a =    5, b =   99, smaller = 1, equal = 0, greater = 0
+#                    4 a =   66, b =   66, smaller = 0, equal = 1, greater = 0
+#                    5 a =  100, b =   47, smaller = 0, equal = 0, greater = 1
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/040.nbit_comparator/nbit_compare.v(55)
+#    Time: 6 us  Iteration: 0  Instance: /tb_comparator_nbit
+# Break in Module tb_comparator_nbit at D:/FPGA/Verilog-Labs/040.nbit_comparator/nbit_compare.v line 55
+quit -sim
+# End time: 21:47:15 on Sep 08,2024, Elapsed time: 0:01:00
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of nbit_decoder.v was successful.
+vsim -gui work.tb_decoder_nbit
+# vsim -gui work.tb_decoder_nbit 
+# Start time: 22:11:57 on Sep 08,2024
+# Loading work.tb_decoder_nbit
+# Loading work.decoder_nbit
+add wave -position end  sim:/tb_decoder_nbit/a
+add wave -position end  sim:/tb_decoder_nbit/enable
+add wave -position end  sim:/tb_decoder_nbit/y
+add wave -position end  sim:/tb_decoder_nbit/i
+run -all
+#                    0 a = x, enable = x, y = xxxxxxxx
+#                    1 a = 0, enable = 0, y = 00000000
+#                    2 a = 0, enable = 1, y = 00000001
+#                    3 a = 1, enable = 1, y = 00000010
+#                    4 a = 2, enable = 1, y = 00000100
+#                    5 a = 3, enable = 1, y = 00001000
+#                    6 a = 4, enable = 1, y = 00010000
+#                    7 a = 5, enable = 1, y = 00100000
+#                    8 a = 6, enable = 1, y = 01000000
+#                    9 a = 7, enable = 1, y = 10000000
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+#                    0 a = x, enable = x, y = xxxxxxxx
+#                    1 a = 0, enable = 0, y = 00000000
+#                    2 a = 0, enable = 1, y = 00000001
+#                    3 a = 1, enable = 1, y = 00000010
+#                    4 a = 2, enable = 1, y = 00000100
+#                    5 a = 3, enable = 1, y = 00001000
+#                    6 a = 4, enable = 1, y = 00010000
+#                    7 a = 5, enable = 1, y = 00100000
+#                    8 a = 6, enable = 1, y = 01000000
+#                    9 a = 7, enable = 1, y = 10000000
+# End time: 23:09:49 on Sep 08,2024, Elapsed time: 0:57:52
+# Errors: 0, Warnings: 1

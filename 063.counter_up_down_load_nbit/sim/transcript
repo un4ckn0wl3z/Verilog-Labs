@@ -1,0 +1,33 @@
+# Compile of counter_modulo_n.v was successful.
+vsim -gui work.tb_counter_modulo_n
+# vsim -gui work.tb_counter_modulo_n 
+# Start time: 22:51:31 on Sep 15,2024
+# Loading work.tb_counter_modulo_n
+# Loading work.counter_modulo_n
+add wave -position end  sim:/tb_counter_modulo_n/clk
+add wave -position end  sim:/tb_counter_modulo_n/reset_n
+add wave -position end  sim:/tb_counter_modulo_n/enable
+add wave -position end  sim:/tb_counter_modulo_n/counter_out
+run -all
+#                    0 enable = x, counter_out =  x
+#                    1 enable = 0, counter_out =  0
+#                    5 enable = 1, counter_out =  0
+#                    6 enable = 1, counter_out =  1
+#                    7 enable = 1, counter_out =  2
+#                    8 enable = 1, counter_out =  3
+#                    9 enable = 1, counter_out =  4
+#                   10 enable = 1, counter_out =  5
+#                   11 enable = 1, counter_out =  6
+#                   12 enable = 1, counter_out =  7
+#                   13 enable = 1, counter_out =  8
+#                   14 enable = 1, counter_out =  9
+#                   15 enable = 1, counter_out =  0
+#                   16 enable = 1, counter_out =  1
+#                   17 enable = 1, counter_out =  2
+#                   18 enable = 1, counter_out =  3
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/064.counter_modulo_n/counter_modulo_n.v(60)
+#    Time: 18500 ns  Iteration: 1  Instance: /tb_counter_modulo_n
+# Break in Module tb_counter_modulo_n at D:/FPGA/Verilog-Labs/064.counter_modulo_n/counter_modulo_n.v line 60
+quit -sim
+# End time: 22:52:32 on Sep 15,2024, Elapsed time: 0:01:01
+# Errors: 0, Warnings: 6

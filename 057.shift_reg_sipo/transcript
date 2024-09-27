@@ -1,0 +1,48 @@
+# Compile of shift_reg_siso.v was successful.
+vsim -gui work.tb_shift_reg_siso
+# vsim -gui work.tb_shift_reg_siso 
+# Start time: 13:26:52 on Sep 15,2024
+# Loading work.tb_shift_reg_siso
+# Loading work.shift_reg_siso
+add wave -position end  sim:/tb_shift_reg_siso/sdi
+add wave -position end  sim:/tb_shift_reg_siso/clk
+add wave -position end  sim:/tb_shift_reg_siso/reset_n
+add wave -position end  sim:/tb_shift_reg_siso/sdo
+run -all
+# ** Note: $finish    : D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v(67)
+#    Time: 40 us  Iteration: 0  Instance: /tb_shift_reg_siso
+# 1
+# Break in Module tb_shift_reg_siso at D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v line 67
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+add wave -position end sim:/tb_shift_reg_siso/SISO0/*
+# Break key hit
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $finish    : D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v(67)
+#    Time: 40 us  Iteration: 0  Instance: /tb_shift_reg_siso
+# 1
+# Break in Module tb_shift_reg_siso at D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v line 67
+quit -sim
+# End time: 13:32:05 on Sep 15,2024, Elapsed time: 0:05:13
+# Errors: 0, Warnings: 1
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of shift_reg_piso.v was successful.
+vsim -gui work.tb_shift_reg_piso
+# vsim -gui work.tb_shift_reg_piso 
+# Start time: 13:41:40 on Sep 15,2024
+# Loading work.tb_shift_reg_piso
+# Loading work.shift_reg_piso
+add wave -position end sim:/tb_shift_reg_piso/*
+add wave -position end sim:/tb_shift_reg_piso/PISO0/*
+run -all
+# ** Note: $finish    : D:/FPGA/Verilog-Labs/059.shift_reg_piso/shift_reg_piso.v(77)
+#    Time: 40 us  Iteration: 0  Instance: /tb_shift_reg_piso
+# 1
+# Break in Module tb_shift_reg_piso at D:/FPGA/Verilog-Labs/059.shift_reg_piso/shift_reg_piso.v line 77
+quit -sim
+# End time: 13:46:00 on Sep 15,2024, Elapsed time: 0:04:20
+# Errors: 0, Warnings: 5

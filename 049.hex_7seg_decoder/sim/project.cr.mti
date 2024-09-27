@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/049.hex_7seg_decoder/sim/hex_7seg_decoder.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/049.hex_7seg_decoder/sim/hex_7seg_decoder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hex_7seg_decoder
+-- Compiling module tb_hex_7seg_decoder
+
+Top level modules:
+	tb_hex_7seg_decoder
+
+} {} {}}

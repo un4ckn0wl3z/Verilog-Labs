@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/038.tree_adder_procedural/sim
+vadder_nbit
+Z0 !s110 1725806315
+!i10b 1
+!s100 e69X>aYO98ZTUzSKH>Tl:2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcJ5=5i4S1Y[7jJgRh[E]D1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/039.nbit_adder/sim
+Z4 w1725806076
+Z5 8D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v
+Z6 FD:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v
+!i122 0
+L0 2 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1725806315.000000
+!s107 D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_adder_nbit
+R0
+!i10b 1
+!s100 ;iZ0DZTbSWa;Bh:iFCe6l3
+R1
+IcTR9R^aYjb4N55TfG667T0
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 21 28
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/039.nbit_adder/nbit_adder.v|
+R9
+!i113 1
+R10
+R11

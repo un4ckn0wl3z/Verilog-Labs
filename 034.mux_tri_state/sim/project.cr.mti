@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/034.mux_tri_state/mux_tristate.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/034.mux_tri_state/mux_tristate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_tristate
+-- Compiling module tb_mux_tristate
+
+Top level modules:
+	tb_mux_tristate
+
+} {} {}}

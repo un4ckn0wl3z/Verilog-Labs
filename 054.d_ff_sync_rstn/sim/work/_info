@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/053.d_latch_reset/sim
+vd_ff_async_rstn
+!s110 1726327191
+!i10b 1
+!s100 T7VVTLRmR3dOO0@1K5FR<1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Imn:Q^V95ScV@lKa?NJ5k:2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/sim
+w1726326920
+Z3 8D:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/d_ff_sync_rstn.v
+Z4 FD:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/d_ff_sync_rstn.v
+!i122 0
+L0 1 21
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1726327191.000000
+!s107 D:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/d_ff_sync_rstn.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/d_ff_sync_rstn.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vd_ff_sync_rstn
+Z9 !s110 1726840953
+!i10b 1
+!s100 H;KbHWmPQFD4fDIZnB2nR3
+R0
+ISgz9ebEKUL=a`K9^2>=1I1
+R1
+R2
+Z10 w1726840939
+R3
+R4
+!i122 1
+L0 2 21
+R5
+r1
+!s85 0
+31
+Z11 !s108 1726840953.000000
+Z12 !s107 D:/FPGA/Verilog-Labs/054.d_ff_sync_rstn/d_ff_sync_rstn.v|
+R6
+!i113 1
+R7
+R8
+vtb_d_dff_rstn
+R9
+!i10b 1
+!s100 YUeV<@z]AcVoo1OcFBC4L2
+R0
+IRjFD9:j906]mBGlbZHbWg2
+R1
+R2
+R10
+R3
+R4
+!i122 1
+L0 26 46
+R5
+r1
+!s85 0
+31
+R11
+R12
+R6
+!i113 1
+R7
+R8

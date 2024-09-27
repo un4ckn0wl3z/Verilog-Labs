@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/076.ram_sp_async_read/sim
+vram_sp_sync_read
+Z0 !s110 1726758450
+!i10b 1
+!s100 ]<1m@bo6@:EanedzcOOlD3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITQ@Q_e2GjTa7MSMc<UdF11
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/077.ram_sp_sync_read/sim
+Z4 w1726757183
+Z5 8D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v
+Z6 FD:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v
+!i122 0
+L0 4 27
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726758450.000000
+!s107 D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_ram_sp_sync_read
+R0
+!i10b 1
+!s100 G5]GX8gA<I2UcJEi124aF1
+R1
+IekQmL4UNG`da>D]Wb3VKj0
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 34 86
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v|
+R9
+!i113 1
+R10
+R11

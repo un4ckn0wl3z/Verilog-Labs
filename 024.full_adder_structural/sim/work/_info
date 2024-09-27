@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/023.half_adder_behavioral/sim
+vfull_adder_structural
+Z0 !s110 1725542722
+!i10b 1
+!s100 j88_@STVOXTG2[PHc9S?l0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie8<5fnzBDQPh1[DVZeIE43
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/024.full_adder_structural/sim
+w1725542332
+8D:/FPGA/Verilog-Labs/024.full_adder_structural/full_adder_structural.v
+FD:/FPGA/Verilog-Labs/024.full_adder_structural/full_adder_structural.v
+!i122 0
+L0 1 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1725542722.000000
+!s107 D:/FPGA/Verilog-Labs/024.full_adder_structural/full_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/024.full_adder_structural/full_adder_structural.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vhalf_adder_structural
+R0
+!i10b 1
+!s100 :f_R]I?KE9gHE]0@@lJia0
+R1
+I;6n4=1:mBU9]iF3;WXk2H2
+R2
+R3
+w1725458899
+8D:/FPGA/Verilog-Labs/024.full_adder_structural/half_adder_structural.v
+FD:/FPGA/Verilog-Labs/024.full_adder_structural/half_adder_structural.v
+!i122 1
+L0 1 10
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/024.full_adder_structural/half_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/024.full_adder_structural/half_adder_structural.v|
+!i113 1
+R6
+R7
+vtestbench
+R0
+!i10b 1
+!s100 _NQfoanYZUh9o3ojA1=4^2
+R1
+Ik<d6Hg8jM=55HVmZoHNc73
+R2
+R3
+w1725542678
+8D:/FPGA/Verilog-Labs/024.full_adder_structural/testbench.v
+FD:/FPGA/Verilog-Labs/024.full_adder_structural/testbench.v
+!i122 2
+L0 1 35
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/024.full_adder_structural/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/024.full_adder_structural/testbench.v|
+!i113 1
+R6
+R7

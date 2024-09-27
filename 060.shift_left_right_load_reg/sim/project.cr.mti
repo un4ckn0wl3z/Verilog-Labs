@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/060.shift_left_right_load_reg/sim/shift_left_right_load_reg.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/060.shift_left_right_load_reg/sim/shift_left_right_load_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_left_right_load_reg
+-- Compiling module tb_shift_left_right_reg
+
+Top level modules:
+	tb_shift_left_right_reg
+
+} {} {}}

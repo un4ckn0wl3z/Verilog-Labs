@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/057.shift_reg_sipo
+vshift_reg_siso
+Z0 !s110 1726381604
+!i10b 1
+!s100 N7nzSkZF3LIIO21SPjo<A2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQzWUio6:^lgGID`2B_Sl80
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/058.shift_reg_siso/sim
+Z4 w1726381551
+Z5 8D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v
+Z6 FD:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v
+!i122 0
+L0 2 23
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726381604.000000
+!s107 D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_shift_reg_siso
+R0
+!i10b 1
+!s100 EFA@>2Ol^Z1FU5M7SGZaS1
+R1
+I`4DEMHIO9BK0Dj8:kXHIJ2
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 28 42
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/058.shift_reg_siso/shift_reg_siso.v|
+R9
+!i113 1
+R10
+R11

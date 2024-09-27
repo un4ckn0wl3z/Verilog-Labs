@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/077.ram_sp_sync_read/sim
+vrom
+Z0 !s110 1726849592
+!i10b 1
+!s100 NmQ`3_YK4dolHza1b?kYX1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZo[J5=B`C]8g1oJR;kMDJ2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/079.rom/sim
+Z4 w1726849589
+Z5 8D:/FPGA/Verilog-Labs/079.rom/rom.v
+Z6 FD:/FPGA/Verilog-Labs/079.rom/rom.v
+!i122 4
+L0 3 24
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1726849592.000000
+!s107 D:/FPGA/Verilog-Labs/079.rom/rom.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/079.rom/rom.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_rom
+R0
+!i10b 1
+!s100 HVI:FGnlMD>M5CbTU6Zoe1
+R1
+I3cnnER8:VLR=>Y83m<WTz2
+R2
+R3
+R4
+R5
+R6
+!i122 4
+L0 30 44
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/079.rom/rom.v|
+R9
+!i113 1
+R10
+R11

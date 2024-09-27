@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/031.mux_1bit/sim
+vdemux_1bit
+Z0 !s110 1725716073
+!i10b 1
+!s100 OSN8;8_4C5NA<F4>Y9dMe2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IZDL1Y[m]>dze_2XQ[R88f0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/032.demux_1bit/sim
+w1725715866
+8D:/FPGA/Verilog-Labs/032.demux_1bit/demux_1bit.v
+FD:/FPGA/Verilog-Labs/032.demux_1bit/demux_1bit.v
+!i122 0
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1725716073.000000
+!s107 D:/FPGA/Verilog-Labs/032.demux_1bit/demux_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/032.demux_1bit/demux_1bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_demux
+R0
+!i10b 1
+!s100 ES?IfIO9?WY:D_z:7jK_>0
+R1
+IeCRW^_al6oYCQaMFzH0;n1
+R2
+R3
+w1725715929
+8D:/FPGA/Verilog-Labs/032.demux_1bit/tb_demux.v
+FD:/FPGA/Verilog-Labs/032.demux_1bit/tb_demux.v
+!i122 1
+L0 2 39
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/032.demux_1bit/tb_demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/032.demux_1bit/tb_demux.v|
+!i113 1
+R6
+R7

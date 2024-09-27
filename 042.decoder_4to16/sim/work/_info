@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/041.nbit_decoder/sim
+vdecoder_3to8
+Z0 !s110 1725888441
+!i10b 1
+!s100 7=FdVH010jQh?GGWj8;We3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Il_;1W[WQ6F2U78cg0P]_23
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/042.decoder_4to16/sim
+Z4 w1725887988
+Z5 8D:/FPGA/Verilog-Labs/042.decoder_4to16/decoder_4to16.v
+Z6 FD:/FPGA/Verilog-Labs/042.decoder_4to16/decoder_4to16.v
+!i122 0
+L0 2 28
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1725888441.000000
+!s107 D:/FPGA/Verilog-Labs/042.decoder_4to16/decoder_4to16.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/042.decoder_4to16/decoder_4to16.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vdecoder_4to16
+R0
+!i10b 1
+!s100 YFI`d7:Dan<Od3SaOD=U_3
+R1
+Ide21RnTmW@h_J_La2M2V50
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 32 18
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 D:/FPGA/Verilog-Labs/042.decoder_4to16/decoder_4to16.v|
+R9
+!i113 1
+R10
+R11
+vtb_decoder_4to16
+R0
+!i10b 1
+!s100 5M=J9EcCbE0BgiJ?M8f[93
+R1
+ILKaS9[]SMW?n@V19S=f`:0
+R2
+R3
+R4
+R5
+R6
+!i122 0
+L0 53 22
+R7
+r1
+!s85 0
+31
+R8
+R12
+R9
+!i113 1
+R10
+R11

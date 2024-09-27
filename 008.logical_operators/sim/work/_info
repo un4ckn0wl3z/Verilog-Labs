@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/007.reduction_operator/sim
+vlogical_operators
+!s110 1725374102
+!i10b 1
+!s100 33G4aX27?MD<ao`F>RIUF0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I<:6[8G@gCQ2RS]<9j2fGB0
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/FPGA/Verilog-Labs/008.logical_operators/sim
+w1725374099
+8D:/FPGA/Verilog-Labs/008.logical_operators/sim/logical_operators.v
+FD:/FPGA/Verilog-Labs/008.logical_operators/sim/logical_operators.v
+!i122 5
+L0 1 36
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1725374102.000000
+!s107 D:/FPGA/Verilog-Labs/008.logical_operators/sim/logical_operators.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/008.logical_operators/sim/logical_operators.v|
+!i113 1
+o-work work
+tCvgOpt 0

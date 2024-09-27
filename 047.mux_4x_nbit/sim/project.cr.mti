@@ -1,0 +1,15 @@
+D:/FPGA/Verilog-Labs/047.mux_4x_nbit/mux_4x_nbit.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/047.mux_4x_nbit/mux_4x_nbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_4x_nbit
+
+Top level modules:
+	mux_4x_nbit
+
+} {} {}} D:/FPGA/Verilog-Labs/047.mux_4x_nbit/tb.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/047.mux_4x_nbit/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux_4x_nbit
+
+Top level modules:
+	tb_mux_4x_nbit
+
+} {} {}}

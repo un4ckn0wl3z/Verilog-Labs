@@ -1,0 +1,177 @@
+# Compile of reduction_operator.v was successful.
+vsim -gui work.reduction_operator
+# vsim -gui work.reduction_operator 
+# Start time: 20:46:11 on Sep 03,2024
+# Loading work.reduction_operator
+add wave -position end  sim:/reduction_operator/my_val1
+add wave -position end  sim:/reduction_operator/my_val2
+add wave -position end  sim:/reduction_operator/result
+run -all
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# Compile of reduction_operator.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.reduction_operator
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# MON my_val1=11111, my_val2=101011110, result=1
+# MON my_val1=11111, my_val2=101011110, result=0
+# A time value could not be extracted from the current line
+# A time value could not be extracted from the current line
+# Compile of reduction_operator.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.reduction_operator
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# Compile of reduction_operator.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.reduction_operator
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+# MON my_val1=11111, my_val2=101011110, result=000000001
+# MON my_val1=11111, my_val2=101011110, result=000000000
+quit -sim
+# End time: 21:32:25 on Sep 03,2024, Elapsed time: 0:46:14
+# Errors: 0, Warnings: 1
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of logical_operators.v was successful with warnings.
+# Compile of logical_operators.v was successful with warnings.
+# Compile of logical_operators.v was successful with warnings.
+# Compile of logical_operators.v was successful with warnings.
+# Compile of logical_operators.v was successful with warnings.
+# Compile of logical_operators.v was successful.
+vsim -gui work.logical_operators
+# vsim -gui work.logical_operators 
+# Start time: 21:35:16 on Sep 03,2024
+# Loading work.logical_operators
+add wave -position end  sim:/logical_operators/my_val1
+add wave -position end  sim:/logical_operators/my_val2
+add wave -position end  sim:/logical_operators/result
+run -all
+# MON my_val1=111, my_val2=0000, result=0
+# MON my_val1=111, my_val2=0000, result=1
+# MON my_val1=111, my_val2=0000, result=0
+# MON my_val1=111, my_val2=0000, result=1
+# MON my_val1=z0x, my_val2=0000, result=1
+# MON my_val1=z0x, my_val2=0000, result=x
+# MON my_val1=z0x, my_val2=0000, result=0
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 21:53:16 on Sep 03,2024, Elapsed time: 0:18:00
+# Errors: 0, Warnings: 13
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of logical_operator_usage.v was successful.
+vsim -gui work.logical_oeprator_usage
+# vsim -gui work.logical_oeprator_usage 
+# Start time: 21:53:49 on Sep 03,2024
+# Loading work.logical_oeprator_usage
+add wave -position end  sim:/logical_oeprator_usage/my_val1
+add wave -position end  sim:/logical_oeprator_usage/my_val2
+run -all
+# :( I expected my_val1=0 but my_val1=111
+# GREAT! my_val2=0000
+# GREAT! my_val1=111, my_val2=0000
+# WHILE LOOP my_val2= 0
+# WHILE LOOP my_val2= 1
+# WHILE LOOP my_val2= 2
+quit -sim
+# End time: 21:59:39 on Sep 03,2024, Elapsed time: 0:05:50
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of math_operator.v was successful.
+vsim -gui work.math_operators
+# vsim -gui work.math_operators 
+# Start time: 22:00:24 on Sep 03,2024
+# Loading work.math_operators
+add wave -position end  sim:/math_operators/a
+add wave -position end  sim:/math_operators/b
+add wave -position end  sim:/math_operators/result
+run -all
+# MON a = 2, b = 3, result = 8
+# MON a = 2, b = 3, result = 9
+# MON a = 177, b = 12, result = 2124
+# MON a = 199, b = 19, result = 10
+# MON a = 199, b = 19, result = 9
+# MON a = 199, b = -19, result = 9
+# MON a = 4199, b = -2319, result = 1880
+# MON a = 19234, b = -16, result = 19250
+# MON a = 919234, b = 13, result = 493250
+quit -sim
+# End time: 22:00:49 on Sep 03,2024, Elapsed time: 0:00:25
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of shift_operators.v was successful.
+vsim -gui work.shift_operators
+# vsim -gui work.shift_operators 
+# Start time: 22:08:45 on Sep 03,2024
+# Loading work.shift_operators
+add wave -position end  sim:/shift_operators/a
+add wave -position end  sim:/shift_operators/b
+run -all
+# MON a = 010110101101, b = 101101011010, a = 1453, b = 2906
+# MON a = 010110101101, b = 000000000000, a = 1453, b = 0
+# MON a = 010110101101, b = 101101011010, a = 1453, b = 2906
+# MON a = 010110101101, b = 010110100000, a = 1453, b = 1440
+# MON a = 010110101101, b = 000101101000, a = 1453, b = 360
+# MON a = 010110101101, b = 000000000010, a = 1453, b = 2
+# MON a = 010110101101, b = 000000000100, a = 1453, b = 4
+# MON a = 010110101101, b = 000000101101, a = 1453, b = 45
+quit -sim
+# End time: 22:09:33 on Sep 03,2024, Elapsed time: 0:00:48
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of relational_operators.v was successful.
+vsim -gui work.relational_operators
+# vsim -gui work.relational_operators 
+# Start time: 22:16:31 on Sep 03,2024
+# Loading work.relational_operators
+add wave -position end  sim:/relational_operators/result
+run -all
+# MON result = x
+# MON result = 0
+# MON result = 1
+# MON result = 0
+# MON result = 1
+# MON result = x
+# MON result = 1
+quit
+# End time: 22:20:20 on Sep 03,2024, Elapsed time: 0:03:49
+# Errors: 0, Warnings: 5

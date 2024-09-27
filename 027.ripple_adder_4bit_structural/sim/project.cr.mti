@@ -1,0 +1,11 @@
+D:/FPGA/Verilog-Labs/027.ripple_adder_4bit_structural/sim/ripple_adder_4bit_structural.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/027.ripple_adder_4bit_structural/sim/ripple_adder_4bit_structural.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ripple_adder_4bit_structural
+-- Compiling module full_adder_structural
+-- Compiling module half_adder_structural
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

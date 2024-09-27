@@ -1,0 +1,15 @@
+D:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tristate_buffer_1bit
+
+Top level modules:
+	tristate_buffer_1bit
+
+} {} {}} D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_tristate
+
+Top level modules:
+	tb_tristate
+
+} {} {}}

@@ -1,0 +1,8 @@
+D:/FPGA/Verilog-Labs/012.relational_operator/sim/relational_operators.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/012.relational_operator/sim/relational_operators.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module relational_operators
+
+Top level modules:
+	relational_operators
+
+} {} {}}

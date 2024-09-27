@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/077.ram_sp_sync_read/ram_sp_sync_read.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram_sp_sync_read
+-- Compiling module tb_ram_sp_sync_read
+
+Top level modules:
+	tb_ram_sp_sync_read
+
+} {} {}}

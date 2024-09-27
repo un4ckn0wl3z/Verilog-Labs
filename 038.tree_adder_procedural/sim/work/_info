@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/037.adders3/sim
+vtb_adders3_proc
+!s110 1725805861
+!i10b 1
+!s100 DSi]LO9;7ZWUoKincQeg21
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+In7@lJ]W4L8CF^Yb_4F4fK2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/Verilog-Labs/038.tree_adder_procedural/sim
+w1725805830
+8D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tb.v
+FD:/FPGA/Verilog-Labs/038.tree_adder_procedural/tb.v
+!i122 0
+L0 3 33
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1725805861.000000
+!s107 D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtree_adder_procedural
+!s110 1725805862
+!i10b 1
+!s100 HIFPoW0fZVFVYeWPaoMHA2
+R0
+II2zS=nNeRSC^VXbO]8Imm3
+R1
+R2
+w1725805808
+8D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tree_adder_procedural.v
+FD:/FPGA/Verilog-Labs/038.tree_adder_procedural/tree_adder_procedural.v
+!i122 1
+L0 1 26
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tree_adder_procedural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/038.tree_adder_procedural/tree_adder_procedural.v|
+!i113 1
+R5
+R6

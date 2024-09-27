@@ -1,0 +1,10 @@
+D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/065.clock_div_nbit/clock_div_nbit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module clock_div_nbit
+-- Compiling module counter_nbit
+-- Compiling module tb_clock_div_nbit
+
+Top level modules:
+	tb_clock_div_nbit
+
+} {} {}}

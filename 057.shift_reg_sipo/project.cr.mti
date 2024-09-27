@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/057.shift_reg_sipo/shift_reg_sipo.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/057.shift_reg_sipo/shift_reg_sipo.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_reg_sipo
+-- Compiling module tb_shift_reg_sipo
+
+Top level modules:
+	tb_shift_reg_sipo
+
+} {} {}}

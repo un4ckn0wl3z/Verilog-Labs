@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/040.nbit_comparator/nbit_compare.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/040.nbit_comparator/nbit_compare.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module comparator_nbit
+-- Compiling module tb_comparator_nbit
+
+Top level modules:
+	tb_comparator_nbit
+
+} {} {}}

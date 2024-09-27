@@ -1,0 +1,15 @@
+D:/FPGA/Verilog-Labs/036.some_logic/some_logic.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/036.some_logic/some_logic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module some_logic
+
+Top level modules:
+	some_logic
+
+} {} {}} D:/FPGA/Verilog-Labs/036.some_logic/tb.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/036.some_logic/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_logic
+
+Top level modules:
+	tb_logic
+
+} {} {}}

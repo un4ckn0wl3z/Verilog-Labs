@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/051.clkgen/sim
+vd_latch
+Z0 !s110 1726324559
+!i10b 1
+!s100 U;a=@KWYR=6aWXf4Uegk@2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IeMhW15XGZ:09YAX?o]aG@1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/052.d_latch/sim
+w1726323756
+8D:/FPGA/Verilog-Labs/052.d_latch/d_latch.v
+FD:/FPGA/Verilog-Labs/052.d_latch/d_latch.v
+!i122 0
+L0 1 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1726324558.000000
+!s107 D:/FPGA/Verilog-Labs/052.d_latch/d_latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/052.d_latch/d_latch.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb
+R0
+!i10b 1
+!s100 ?5jAGfmJN[`QiP9]SN7L>0
+R1
+IZaiWnUg7^?SSK0]B<8m=X3
+R2
+R3
+w1726324528
+8D:/FPGA/Verilog-Labs/052.d_latch/tb.v
+FD:/FPGA/Verilog-Labs/052.d_latch/tb.v
+!i122 1
+L0 2 37
+R4
+r1
+!s85 0
+31
+!s108 1726324559.000000
+!s107 D:/FPGA/Verilog-Labs/052.d_latch/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/052.d_latch/tb.v|
+!i113 1
+R5
+R6

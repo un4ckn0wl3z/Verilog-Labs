@@ -1,0 +1,8 @@
+D:/FPGA/Verilog-Labs/001.HelloWorld/hello_world.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/001.HelloWorld/hello_world.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module hello_world
+
+Top level modules:
+	hello_world
+
+} {} {}}

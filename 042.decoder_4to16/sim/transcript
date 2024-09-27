@@ -1,0 +1,21 @@
+# Compile of encoder_8to3.v was successful.
+vsim -gui work.tb_encoder_8to3
+# vsim -gui work.tb_encoder_8to3 
+# Start time: 20:47:20 on Sep 09,2024
+# Loading work.tb_encoder_8to3
+# Loading work.encoder_8to3
+run -all
+#                    0 d = xxxxxxxx, y = x
+#                    1 d = 00000000, y = 0
+#                    2 d = 00000001, y = 0
+#                    3 d = 00000010, y = 1
+#                    4 d = 00000100, y = 2
+#                    5 d = 00001000, y = 3
+#                    6 d = 00010000, y = 4
+#                    7 d = 00100000, y = 5
+#                    8 d = 01000000, y = 6
+#                    9 d = 10000000, y = 7
+#                   10 d = 11111111, y = 0
+quit
+# End time: 20:47:58 on Sep 09,2024, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 5

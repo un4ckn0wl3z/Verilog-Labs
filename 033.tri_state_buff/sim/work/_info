@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Verilog-Labs/032.demux_1bit/sim
+vtb_tristate
+Z0 !s110 1725716747
+!i10b 1
+!s100 Qb<dg7e:DJ5gM95KzXU5^1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IE=IKK4^eMJUo;lXQ;ho_:3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/FPGA/Verilog-Labs/033.tri_state_buff/sim
+w1725716636
+8D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v
+FD:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v
+!i122 0
+L0 3 28
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1725716747.000000
+!s107 D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtristate_buffer_1bit
+R0
+!i10b 1
+!s100 k_C_0C@RkOGL?D1ZXRA3:0
+R1
+IYbO;PC]376a^DCgMDa0801
+R2
+R3
+w1725716616
+8D:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v
+FD:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v
+!i122 1
+L0 1 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/Verilog-Labs/033.tri_state_buff/tri_state_buff.v|
+!i113 1
+R6
+R7

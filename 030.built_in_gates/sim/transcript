@@ -1,0 +1,113 @@
+# Compile of mux_1bit.v was successful.
+# Compile of tb_mux.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb
+# vsim work.tb 
+# Start time: 20:16:40 on Sep 07,2024
+# Loading work.tb
+# Loading work.mux_1bit
+add wave -position end  sim:/tb/a
+add wave -position end  sim:/tb/b
+add wave -position end  sim:/tb/x
+add wave -position end  sim:/tb/y
+run -all
+quit -sim
+# End time: 20:33:24 on Sep 07,2024, Elapsed time: 0:16:44
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of demux_1bit.v was successful.
+# Compile of tb_demux.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_demux
+# vsim work.tb_demux 
+# Start time: 20:34:41 on Sep 07,2024
+# Loading work.tb_demux
+# Loading work.demux_1bit
+add wave -position end  sim:/tb_demux/x
+add wave -position end  sim:/tb_demux/sel
+add wave -position end  sim:/tb_demux/y0
+add wave -position end  sim:/tb_demux/y1
+run -all
+quit
+quit -sim
+# End time: 20:38:01 on Sep 07,2024, Elapsed time: 0:03:20
+# Errors: 0, Warnings: 8
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of b_tristate.v was successful.
+# Compile of tri_state_buff.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_tristate
+# vsim work.tb_tristate 
+# Start time: 20:45:54 on Sep 07,2024
+# Loading work.tb_tristate
+# Loading work.tristate_buffer_1bit
+add wave -position end  sim:/tb_tristate/din
+add wave -position end  sim:/tb_tristate/sel
+add wave -position end  sim:/tb_tristate/dout
+run -all
+#  din = x, sel = x, dout = x
+#  din = 0, sel = 0, dout = z
+#  din = 1, sel = 0, dout = z
+#  din = 0, sel = 1, dout = 0
+#  din = 1, sel = 0, dout = z
+#  din = 1, sel = 1, dout = 1
+#  din = 0, sel = 1, dout = 0
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v(27)
+#    Time: 12 us  Iteration: 0  Instance: /tb_tristate
+# Break in Module tb_tristate at D:/FPGA/Verilog-Labs/033.tri_state_buff/b_tristate.v line 27
+quit -sim
+# End time: 21:14:18 on Sep 07,2024, Elapsed time: 0:28:24
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of mux_tristate.v was successful.
+vsim work.tb_mux_tristate
+# vsim work.tb_mux_tristate 
+# Start time: 21:31:11 on Sep 07,2024
+# Loading work.tb_mux_tristate
+# Loading work.mux_tristate
+add wave -position end  sim:/tb_mux_tristate/a
+add wave -position end  sim:/tb_mux_tristate/b
+add wave -position end  sim:/tb_mux_tristate/sel
+add wave -position end  sim:/tb_mux_tristate/dout
+run -all
+#  a = x, b = x, sel = x, dout = x
+#  a = 0, b = 0, sel = 0, dout = 0
+#  a = 1, b = 0, sel = 0, dout = 1
+#  a = 1, b = 0, sel = 1, dout = 0
+#  a = 0, b = 1, sel = 1, dout = 1
+#  a = 0, b = 0, sel = 0, dout = 0
+quit -sim
+# End time: 21:32:28 on Sep 07,2024, Elapsed time: 0:01:17
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of comparator_1bit.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.tb_comp
+# vsim work.tb_comp 
+# Start time: 22:07:31 on Sep 07,2024
+# Loading work.tb_comp
+# Loading work.comparator_1bit
+add wave -position end  sim:/tb_comp/a
+add wave -position end  sim:/tb_comp/b
+add wave -position end  sim:/tb_comp/smaller
+add wave -position end  sim:/tb_comp/greater
+add wave -position end  sim:/tb_comp/equal
+run -all
+#  a = x, b = x, smaller = x, equal = x, greater = x
+#  a = 0, b = 0, smaller = 0, equal = 1, greater = 0
+#  a = 1, b = 0, smaller = 0, equal = 0, greater = 1
+#  a = 0, b = 1, smaller = 1, equal = 0, greater = 0
+#  a = 1, b = 1, smaller = 0, equal = 1, greater = 0
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/035.comparator_1bit/tb.v(26)
+#    Time: 6 us  Iteration: 0  Instance: /tb_comp
+# Break in Module tb_comp at D:/FPGA/Verilog-Labs/035.comparator_1bit/tb.v line 26
+quit -sim
+# End time: 22:08:37 on Sep 07,2024, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 5

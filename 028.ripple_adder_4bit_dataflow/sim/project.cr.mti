@@ -1,0 +1,10 @@
+D:/FPGA/Verilog-Labs/028.ripple_adder_4bit_dataflow/ripple_adder_4bit_dataflow.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/028.ripple_adder_4bit_dataflow/ripple_adder_4bit_dataflow.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ripple_adder_4bit_dataflow
+-- Compiling module full_adder_dataflow
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}}

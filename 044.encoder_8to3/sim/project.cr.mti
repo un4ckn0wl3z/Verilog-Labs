@@ -1,0 +1,9 @@
+D:/FPGA/Verilog-Labs/044.encoder_8to3/encoder_8to3.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/044.encoder_8to3/encoder_8to3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module encoder_8to3
+-- Compiling module tb_encoder_8to3
+
+Top level modules:
+	tb_encoder_8to3
+
+} {} {}}

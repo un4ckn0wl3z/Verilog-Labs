@@ -1,0 +1,42 @@
+# Compile of seq_det_non_overlap.v was successful.
+# Compile of seq_det_non_overlap.v was successful.
+vsim -gui work.tb_seq_det_non_overlap
+# vsim -gui work.tb_seq_det_non_overlap 
+# Start time: 21:55:32 on Sep 21,2024
+# Loading work.tb_seq_det_non_overlap
+# Loading work.seq_det_non_overlap
+add wave -position end  sim:/tb_seq_det_non_overlap/clk
+add wave -position end  sim:/tb_seq_det_non_overlap/rst_n
+add wave -position end  sim:/tb_seq_det_non_overlap/seq_in
+add wave -position end  sim:/tb_seq_det_non_overlap/detected
+add wave -position end  sim:/tb_seq_det_non_overlap/state_out
+run -all
+#                    0 seq_in = x, detected = 0
+#                    5 seq_in = 0, detected = 0
+#                    9 seq_in = 1, detected = 0
+#                   13 seq_in = 0, detected = 0
+#                   19 seq_in = 1, detected = 0
+#                   21 seq_in = 0, detected = 0
+#                   23 seq_in = 1, detected = 1
+#                   25 seq_in = 0, detected = 0
+#                   27 seq_in = 1, detected = 0
+#                   29 seq_in = 0, detected = 0
+#                   31 seq_in = 1, detected = 1
+#                   33 seq_in = 0, detected = 0
+#                   35 seq_in = 1, detected = 0
+#                   47 seq_in = 0, detected = 0
+#                   49 seq_in = 1, detected = 1
+#                   51 seq_in = 1, detected = 0
+#                   53 seq_in = 0, detected = 0
+#                   55 seq_in = 1, detected = 1
+#                   57 seq_in = 1, detected = 0
+#                   59 seq_in = 0, detected = 0
+#                   61 seq_in = 1, detected = 1
+#                   63 seq_in = 1, detected = 0
+# ** Note: $stop    : D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v(102)
+#    Time: 125 us  Iteration: 0  Instance: /tb_seq_det_non_overlap
+# Break in Module tb_seq_det_non_overlap at D:/FPGA/Verilog-Labs/082.seq_det_non_overlap/seq_det_non_overlap.v line 102
+# A time value could not be extracted from the current line
+quit -sim
+# End time: 21:56:38 on Sep 21,2024, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 6

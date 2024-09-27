@@ -1,0 +1,8 @@
+D:/FPGA/Verilog-Labs/009.logical_operator_usage/sim/logical_operator_usage.v {1 {vlog -work work -stats=none D:/FPGA/Verilog-Labs/009.logical_operator_usage/sim/logical_operator_usage.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logical_oeprator_usage
+
+Top level modules:
+	logical_oeprator_usage
+
+} {} {}}
